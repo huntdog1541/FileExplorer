@@ -1,0 +1,7 @@
+ {
+    "name": "File-Explorer",
+    "description": "A command line file explorer",
+    "author": "David Hunt",
+    "version": "0.0.1",
+    "dependencies": {}
+}
