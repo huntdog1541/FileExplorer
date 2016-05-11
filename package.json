@@ -1,7 +1,6 @@
  {
-    "name": "FILE-EXPLORER",
+    "name": "file_explorer",
     "description": "A command line file explorer",
     "author": "David Hunt",
-    "version": "0.0.1",
-    "dependencies": {}
+    "version": "0.0.1"
 }
